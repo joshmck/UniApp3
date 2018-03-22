@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073571202630",
+    "firebase_url": "https://fir-instant-messaging-7430a.firebaseio.com",
+    "project_id": "fir-instant-messaging-7430a",
+    "storage_bucket": "fir-instant-messaging-7430a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073571202630:android:fe706209bc9d71f6",
+        "android_client_info": {
+          "package_name": "com.sourcey.InstantMessager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073571202630-vpor739ig1ms66o98nalamvqaj3a59n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sourcey.InstantMessager",
+            "certificate_hash": "f904c330b6fb7119c5342db3969a1c3adb956024"
+          }
+        },
+        {
+          "client_id": "1073571202630-i0mvdo7kstrbm9e0et4d4niuboim0vi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmLMqCLSJAPPD4qjFG0OYVtw8SzZPGjyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073571202630-i0mvdo7kstrbm9e0et4d4niuboim0vi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
